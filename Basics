@@ -1,0 +1,7 @@
+# multiline strings
+to_you = """
+In their code
+In their trees
+All things bug
+Be at ease
+"""

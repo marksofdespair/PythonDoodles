@@ -5,3 +5,10 @@ In their trees
 All things bug
 Be at ease
 """
+
+#Practice!
+my_age = 26
+half_my_age = 26 / 2
+greeting = "Hello" + "you!" + "It's"
+name = "Dia"
+greeting_with_name = greeting + name

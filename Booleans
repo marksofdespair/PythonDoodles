@@ -1,0 +1,16 @@
+1 == 1 #True
+1 != 1 #False
+2 != 4 #True
+3 == 5 #False
+'7' == 7 #False
+
+# Relational operators - compare two values and return TRUE or FALSE based on the operands - sometimes called comparison operators
+# Logical operators - used to combine multiple boolean expressions
+
+# == equals operator returns TRUE if both operands are the same. Otherwise returns false (a + b = FALSE, a + a = TRUE)
+# != not equals is the negation of the equals to operator (a + b = TRUE, a + a = FALSE)
+
+my_baby_bool = "true"
+print(type(my_baby_bool))
+my_baby_bool_two = True
+print(type(my_baby_bool_two))

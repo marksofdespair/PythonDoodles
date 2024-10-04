@@ -21,4 +21,4 @@ print(gradebook)
 
 full_gradebook = gradebook + last_semester_gradebook
 
-print(gradebook)
+print(full_gradebook)

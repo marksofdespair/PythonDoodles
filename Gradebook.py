@@ -10,6 +10,9 @@ print(gradebook)
 gradebook.append(["computer science", 100])
 gradebook.append(["visual arts", 93])
 
+# forgot task 7, modifying the grade for 'visual arts' by adding 5 points
+gradebook[-1][1] += 5
+
 print (gradebook)
 # Locate the sublist for "poetry"
 poetry_entry = gradebook[2]
